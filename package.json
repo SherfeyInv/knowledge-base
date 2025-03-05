@@ -6,7 +6,7 @@
   "repository": "https://github.com/MyCryptoHQ/knowledge-base.git",
   "license": "MIT",
   "dependencies": {
-    "@ethersproject/abi": "^5.5.0",
+    "@ethersproject/abi": "^5.8.0",
     "@ethersproject/bignumber": "^5.5.0",
     "@fontsource/lato": "^4.5.0",
     "@fontsource/roboto-mono": "^4.5.0",
