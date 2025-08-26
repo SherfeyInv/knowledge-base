@@ -2949,10 +2949,10 @@
   resolved "https://registry.yarnpkg.com/@mdx-js/util/-/util-2.0.0-next.8.tgz#66ecc27b78e07a3ea2eb1a8fc5a99dfa0ba96690"
   integrity sha512-T0BcXmNzEunFkuxrO8BFw44htvTPuAoKbLvTG41otyZBDV1Rs+JMddcUuaP5vXpTWtgD3grhcrPEwyx88RUumQ==
 
-"@mycrypto/ui@^1.9.1":
-  version "1.9.1"
-  resolved "https://registry.yarnpkg.com/@mycrypto/ui/-/ui-1.9.1.tgz#c5734c994651b1356d2ebacc0fa87d6941927eba"
-  integrity sha512-rBVIKY2XHNWdJIO1Z3jlZXayATeHTEbNInRaGNvETXSPEfFCubyBPPwnTpzpxD3cD4VSsce6/WRC7jGtDd7o3Q==
+"@mycrypto/ui@^1.12.1":
+  version "1.12.1"
+  resolved "https://registry.yarnpkg.com/@mycrypto/ui/-/ui-1.12.1.tgz#3fa25b34e24cca26f1f294b7a97aa610b18a6810"
+  integrity sha512-318etAW9gpaEBFsSkFtZsxeI912/MZfPOOGZFPtMWdR5f6uj+R2DPlfvD9FtGIbpMmEmeTfQoJH77CUwgTGX8g==
   dependencies:
     "@rebass/forms" "4.0.6"
     "@types/rebass" "4.0.8"
